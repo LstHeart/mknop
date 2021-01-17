@@ -83,6 +83,9 @@ CONFIG_PACKAGE_luci-app-dockerman=y
 CONFIG_PACKAGE_luci-app-jd-dailybonus=y
 CONFIG_PACKAGE_luci-app-ttnode=y
 CONFIG_PACKAGE_luci-app-argon-config=y
+## socat
+CONFIG_PACKAGE_socat=y
+CONFIG_SOCAT_SSL=y
 ## luci theme
 CONFIG_PACKAGE_luci-theme-bootstrap-mod=y
 CONFIG_PACKAGE_luci-theme-argon=y
